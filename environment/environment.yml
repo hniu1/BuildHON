@@ -1,0 +1,6 @@
+name: adhon
+dependencies:
+  - python=3.6.11
+  - pip=22.0.4
+  - pip:
+    - -r requirements.txt
