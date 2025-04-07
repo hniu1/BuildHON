@@ -3,6 +3,7 @@ import pandas as pd
 import BuildRulesFastParameterFree
 import BuildRulesFastParameterFreeFreq
 import BuildNetwork
+from tqdm import tqdm
 import itertools
 import random
 import matplotlib.pyplot as plt
